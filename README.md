@@ -1,1 +1,1 @@
-#GAY
+simple solution to music players
